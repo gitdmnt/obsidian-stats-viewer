@@ -1,12 +1,21 @@
 {
-  "id": "stat-viewer",
-  "name": "Stat Viewer",
+  "id": "stats-viewer",
+  "name": "Stats Viewer",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
   "description": "A plugin to view your Obsidian stats.",
   "author": "uda",
   "authorUrl": "https://gitdmnt.github.io/",
   "fundingUrl": "",
-  "isDesktopOnly": false
+  "isDesktopOnly": false,
+  "a": [
+    {
+      "id": "stats-viewer",
+      "name": "Stats Viewer",
+      "author": "uda",
+      "description": "A plugin to view your Obisidian stats.",
+      "repo": "gitdmnt/obsidian-stat-viewer"
+    }
+  ]
 }
 
