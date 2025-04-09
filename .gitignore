@@ -1,0 +1,7 @@
+dist/
+node_modules/
+public/
+bun.lockb
+main.js
+data.json
+.DS_Store
